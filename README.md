@@ -58,7 +58,7 @@ Development of crop Prediction application on the web is an important factor in 
 
 “Weather based crop Prediction system using machine learning” provides insight into crop Prediction using multiple ML models based on weather data. This study demonstrates the effectiveness of multilinear, random forest, neural networks, and other models in accurately predicting crop yield with a relative root mean error of less than 8%. Successful applications of neural networks, random forests, and support vector machines in weather-based crop Prediction are also discussed.
 
-# ![](Aspose.Words.49f0cff1-2308-49b9-818d-2686901fec5e.005.png)**LITERATURE SURVEY/STUDY OF EXISTING SOLUTIONS**
+# **LITERATURE SURVEY/STUDY OF EXISTING SOLUTIONS**
 
 The potential of weather-based crop prediction systems to increase agricultural production and reduce hazards related to climate variability has attracted a lot of interest. Many studies have looked into different methods and strategies for creating precise models that predict crop yield based on meteorological	data.
 
